@@ -16,7 +16,7 @@ st.write("Melhor que o cecconello no enem de Mat")
 
 st.write("Progamador profissional desde 28/04/2023")
 
-# pede ao usuário um número inteiro
+# solicita ao usuário um número inteiro
 numero = int(input("Digite um número inteiro: "))
 
 # verifica se o número é par ou ímpar
@@ -24,4 +24,3 @@ if numero % 2 == 0:
     print(numero, "é par")
 else:
     print(numero, "é ímpar")
-
