@@ -12,6 +12,6 @@ st.header("O mestre do AZ")
 # Use st.write("") para adicionar um texto ao seu Web app
 st.write("0 recuperações")
 
-st.info("Melhor que o cecconello no enem de Mat")
+st.write("Melhor que o cecconello no enem de Mat")
 
 st.write("Progamador profissional desde 28/04/2023")
