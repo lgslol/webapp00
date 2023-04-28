@@ -1,8 +1,5 @@
-# solicita ao usuário um número inteiro
-numero = int(input("Digite um número inteiro: "))
-
-# verifica se o número é par ou ímpar
-if numero % 2 == 0:
-    print(numero, "é par")
+num = 2
+if num % 2 == 0:
+    print("o número par")
 else:
-    print(numero, "é ímpar")
+    print("o número é ímpar")
